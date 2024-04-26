@@ -1,8 +1,5 @@
-# React + Vite
+# Level 2 (Task 2) - Job Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introducing our newest creation, a powerful job board that runs on the MERN stack! We've created a dynamic platform that links bright workers with intriguing career possibilities by utilizing MongoDB, Express.js, React.js, and Node.js. Utilize a single, user-friendly interface to interact with companies, apply for jobs, and browse job listings with ease. Take a look at the job hunt of the future right now!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Job Board](./public/images/preview.png)
